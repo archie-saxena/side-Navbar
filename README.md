@@ -1,1 +1,2 @@
 # side-Navbar
+In my project, I developed a side navbar with basic functionality using only HTML5 and CSS3. The navbar appears when you click a hamburger button and disappears when you click the X-mark button. To achieve this, I used an input type checkbox with an id of "check." By assigning the same label for both buttons, I allowed the checkbox to toggle between checked and unchecked states, controlling the visibility of the navbar. This simple approach added interactive functionality without the need for JavaScript, creating a smooth user experience.
